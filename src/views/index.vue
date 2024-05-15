@@ -12,6 +12,6 @@
   /** 初始化 **/
   onMounted(() => {
     //暂时重定向到用户日历
-    //location.href="/data/userCalendar/calendarList";
+    location.href="/data/userCalendar/calendarList";
   })
 </script>
